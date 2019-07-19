@@ -19,3 +19,9 @@ npm run build --report
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+## jianpan文件夹
+	实现使用键盘上下键切换选中单元格，解决vue中子组件ref无法动态更新传递的数据
+
+## gridLayout文件夹
+	实现一个递进的中奖兑换的显示，使用grid布局，但设备兼容还存在问题
