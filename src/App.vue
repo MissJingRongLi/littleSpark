@@ -1,18 +1,19 @@
 <template>
-	<div>11</div>
+	<lunbo/>
 </template>
 
 <script>
+import lunbo from './components/lunBo.vue'
 export default {
   name:'',
   data(){
    return {
-
+	  
    }
   },
   components:{
-	  gridLayout
-  }
+	  lunbo
+  },
 }
 </script>
 
