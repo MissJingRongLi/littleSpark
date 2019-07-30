@@ -25,3 +25,7 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 
 ## gridLayout文件夹
 	实现一个递进的中奖兑换的显示，使用grid布局，但设备兼容还存在问题
+
+## lunBo文件夹
+	实现一个轮播组件，可以手动切换图片显示，默认自动轮播
+	鼠标移进时暂停 移出时恢复 下方配有数字显示当前选中的图片序号
