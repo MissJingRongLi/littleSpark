@@ -29,3 +29,6 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 ## lunBo文件夹
 	实现一个轮播组件，可以手动切换图片显示，默认自动轮播
 	鼠标移进时暂停 移出时恢复 下方配有数字显示当前选中的图片序号
+
+## checkInput 文件夹
+	实现一个输入框，能够采用防抖发送请求，同时增加中文输入验证，在中文输入结束后才发送相关请求
